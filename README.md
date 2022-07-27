@@ -15,6 +15,10 @@ This is the list of the codbex projects by categories
 - [atlas](https://github.com/codbex/codbex-atlas) - All in One Platform
 - [kronos](https://github.com/codbex/codbex-kronos) - HANA XS Classic Compatibility Platform
 
+## Documentation
+
+- [alexandria](https://github.com/codbex/codbex-alexandria) - codbex projects list by categories (this repository)
+
 ## Components
 
 - [industries](https://github.com/codbex/codbex-industries) - industries list
