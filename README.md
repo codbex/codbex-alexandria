@@ -13,7 +13,11 @@ This is the list of the codbex projects by categories
 ## Runtimes
 
 - [atlas](https://github.com/codbex/codbex-atlas) - All in One Platform
-- [kronos](https://github.com/codbex/codbex-kronos) - HANA XS Classic Compatibility Platform
+- [helios](https://github.com/codbex/codbex-atlas) - JavaScript and Typescript Pro-Code Platform
+- [hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
+- [themis](https://github.com/codbex/codbex-themis) - Content Management System
+- [oceanus](https://github.com/codbex/codbex-oceanus) - Databases Management Platform
+- [kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
 
 ## Documentation
 
