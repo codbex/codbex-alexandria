@@ -7,8 +7,10 @@ This is the list of the codbex projects by categories
 - [genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
 - [chronos](https://github.com/codbex/codbex-chronos) - Timesheets Management
 - [hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
-- [agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading
+- [agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
 - [hestia](https://github.com/codbex/codbex-hestia) - Properties Management
+- [zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
+- [hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
 
 ## Runtimes
 
@@ -20,10 +22,6 @@ This is the list of the codbex projects by categories
 - [phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
 - [kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
 - [rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
-
-## Documentation
-
-- [alexandria](https://github.com/codbex/codbex-alexandria) - codbex projects list by categories (this repository)
 
 ## Components
 
