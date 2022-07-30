@@ -9,6 +9,9 @@ This is the list of the codbex projects by categories
 - [hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
 - [agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
 - [hestia](https://github.com/codbex/codbex-hestia) - Properties Management
+
+## Tools
+
 - [zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
 - [hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
 
