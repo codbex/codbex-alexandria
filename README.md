@@ -5,7 +5,7 @@ This is the list of the codbex projects by categories
 ## Applications
 
 - [genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
-- [chronos](https://github.com/codbex/codbex-chronos) - Timesheets Management
+- [aion](https://github.com/codbex/codbex-aion) - Timesheets Management
 - [hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
 - [agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
 - [hestia](https://github.com/codbex/codbex-hestia) - Properties Management
