@@ -17,11 +17,15 @@ This is the list of the codbex projects by categories
 
 ## Runtimes
 
+### Spring Boot Based
+
 - [atlas](https://github.com/codbex/codbex-atlas) - All in One Platform
 - [helios](https://github.com/codbex/codbex-helios) - JavaScript and Typescript Pro-Code Platform
 - [hades](https://github.com/codbex/codbex-hades) - Databases Management Platform
 - [oceanus](https://github.com/codbex/codbex-oceanus) - Content Management System
 - [theia](https://github.com/codbex/codbex-theia) - Terminal over HTTP
+
+### Apache Tomcat Based
 
 - [hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 - [phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
