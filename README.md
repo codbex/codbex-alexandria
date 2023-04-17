@@ -2,19 +2,6 @@
 
 This is the list of the codbex projects by categories
 
-## Applications
-
-- [Genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
-- [Aion](https://github.com/codbex/codbex-aion) - Timesheets Management
-- [Hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
-- [Agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
-- [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
-
-## Tools
-
-- [Zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
-- [Hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
-
 ## Runtimes
 
 ### Spring Boot Based
@@ -31,6 +18,19 @@ This is the list of the codbex projects by categories
 - [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
 - [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
+
+## Applications
+
+- [Aion](https://github.com/codbex/codbex-aion) - Timesheets Management
+- [Hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
+- [Agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
+- [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
+- [Genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
+
+## Tools
+
+- [Zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
+- [Hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
 
 ## Components
 
