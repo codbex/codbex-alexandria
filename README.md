@@ -11,13 +11,16 @@ This is the list of the codbex projects by categories
 - [Hades](https://github.com/codbex/codbex-hades) - Databases Management Platform
 - [Oceanus](https://github.com/codbex/codbex-oceanus) - Content Management System
 - [Theia](https://github.com/codbex/codbex-theia) - Terminal over HTTP
+- [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 
 ### Apache Tomcat Based
-
-- [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
-- [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
+
+### Planned
+- [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
 - [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
+- [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
+
 
 ## Applications
 
