@@ -22,6 +22,10 @@ This is the list of the codbex projects by categories
 - [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
 - [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
 
+## Tools
+
+- [Zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
+- [Hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
 
 ## Applications
 
@@ -31,14 +35,12 @@ This is the list of the codbex projects by categories
 - [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
 - [Genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
 
-## Tools
-
-- [Zeus](https://github.com/codbex/codbex-zeus) - Developer Portal
-- [Hercules](https://github.com/codbex/codbex-hercules) - No-Code Application Builder
-
 ## Components
 
-- [Industries](https://github.com/codbex/codbex-industries) - industries list
-- [UoM](https://github.com/codbex/codbex-uoms) - units of measures list
-- [Currencies](https://github.com/codbex/codbex-currencies) - currencies list
-- [Countries](https://github.com/codbex/codbex-countries) - countries list
+- [Industries](https://github.com/codbex/codbex-industries) - Industries List
+- [UoM](https://github.com/codbex/codbex-uoms) - Units of Measures List
+- [Currencies](https://github.com/codbex/codbex-currencies) - Currencies List
+- [Countries](https://github.com/codbex/codbex-countries) - Countries List
+- [Partners](https://github.com/codbex/codbex-partners) - Partners Management
+- [Invoices](https://github.com/codbex/codbex-invoices) - Invoices Management
+- [Payments](https://github.com/codbex/codbex-payments) - Payments Management
