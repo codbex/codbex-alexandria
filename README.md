@@ -14,8 +14,6 @@ This is the list of the codbex projects by categories
 - [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 - [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
 - [Gaia](https://github.com/codbex/codbex-gaia) - Basis Platform for Products
-
-### Apache Tomcat Based
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
 
 ### Planned
