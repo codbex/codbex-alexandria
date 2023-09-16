@@ -42,3 +42,8 @@ This is the list of the codbex projects by categories
 - [Partners](https://github.com/codbex/codbex-partners) - Partners Management
 - [Invoices](https://github.com/codbex/codbex-invoices) - Invoices Management
 - [Payments](https://github.com/codbex/codbex-payments) - Payments Management
+- [RFQs](https://github.com/codbex/codbex-rfqs) - Request for Quotes Management
+- [Bids](https://github.com/codbex/codbex-bids) - Offers and Bids Management
+- [Opportunities](https://github.com/codbex/codbex-opportunities) - Leads, Opportunities and Quotation Management
+- [Employees](https://github.com/codbex/codbex-employees) - Employees Management
+- [Orders](https://github.com/codbex/codbex-orders) - Orders Management
