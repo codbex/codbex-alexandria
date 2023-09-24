@@ -13,8 +13,9 @@ This is the list of the codbex projects by categories
 - [Theia](https://github.com/codbex/codbex-theia) - Terminal over HTTP
 - [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 - [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
-- [Gaia](https://github.com/codbex/codbex-gaia) - Basis Platform for Products
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
+- [Gaia](https://github.com/codbex/codbex-gaia) - Basis Platform for Products
+
 
 ### Planned
 - [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
