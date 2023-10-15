@@ -30,6 +30,13 @@ This is the list of the codbex projects by categories
 
 - [Aion](https://github.com/codbex/codbex-aion) - Timesheets Management
 - [Hermes](https://github.com/codbex/codbex-hermes) - Customer Relationship Management
+- [Athena](https://github.com/codbex/codbex-athena) - Accounting Management
+- [Poseidon](https://github.com/codbex/codbex-poseidon) - Supply Chain Management
+- [Hera](https://github.com/codbex/codbex-hera) - Human Capital Management
+- [Jason](https://github.com/codbex/codbex-jason) - Projects Management
+- [Perseus](https://github.com/codbex/codbex-perseus) - Services Management
+- [Hephaestus](https://github.com/codbex/codbex-hephaestus) - Manufacturing Management
+- [Asclepius](https://github.com/codbex/codbex-asclepius) - Health Management
 - [Agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
 - [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
 - [Genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
