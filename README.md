@@ -36,6 +36,7 @@ This is the list of the codbex projects by categories
 - [Jason](https://github.com/codbex/codbex-jason) - Projects Management
 - [Perseus](https://github.com/codbex/codbex-perseus) - Services Management
 - [Hephaestus](https://github.com/codbex/codbex-hephaestus) - Manufacturing Management
+- [Portunus](https://github.com/codbex/codbex-portunus) - Warehouse Management
 - [Asclepius](https://github.com/codbex/codbex-asclepius) - Health Management
 - [Agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
 - [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
