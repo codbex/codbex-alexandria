@@ -14,12 +14,12 @@ This is the list of the codbex projects by categories
 - [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 - [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
+- [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
 - [Gaia](https://github.com/codbex/codbex-gaia) - Basis Platform for Products
 
 
 ### Planned
 - [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
-- [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
 
 ## Tools
 
@@ -36,10 +36,9 @@ This is the list of the codbex projects by categories
 - [Jason](https://github.com/codbex/codbex-jason) - Projects Management
 - [Perseus](https://github.com/codbex/codbex-perseus) - Services Management
 - [Hephaestus](https://github.com/codbex/codbex-hephaestus) - Manufacturing Management
-- [Portunus](https://github.com/codbex/codbex-portunus) - Warehouse Management
 - [Asclepius](https://github.com/codbex/codbex-asclepius) - Health Management
 - [Agoreus](https://github.com/codbex/codbex-agoreus) - Spot Trading Platform
-- [Hestia](https://github.com/codbex/codbex-hestia) - Properties Management
+- [Hestia](https://github.com/codbex/codbex-hestia) - Warehouse Management
 - [Genetyllis](https://github.com/codbex/codbex-genetyllis) - Genetic Data Management
 
 ## Components
