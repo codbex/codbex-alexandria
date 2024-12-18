@@ -60,7 +60,6 @@ This is the list of the codbex projects by categories
 - [Currencies](https://github.com/codbex/codbex-currencies) - Currencies List
 - [Countries](https://github.com/codbex/codbex-countries) - Countries List
 - [Cities](https://github.com/codbex/codbex-cities) - Cities List
-
 - [Invoices](https://github.com/codbex/codbex-invoices) - Invoices Management
 - [Payments](https://github.com/codbex/codbex-payments) - Payments Management
 - [RFQs](https://github.com/codbex/codbex-rfqs) - Request for Quotes Management
