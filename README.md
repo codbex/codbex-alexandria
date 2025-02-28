@@ -10,7 +10,6 @@ This is the list of the codbex projects by categories
 - [Helios](https://github.com/codbex/codbex-helios) - JavaScript and Typescript Pro-Code Platform
 - [Hades](https://github.com/codbex/codbex-hades) - Databases Management Platform
 - [Oceanus](https://github.com/codbex/codbex-oceanus) - Content Management System
-- [Theia](https://github.com/codbex/codbex-theia) - Terminal over HTTP
 - [Hyperion](https://github.com/codbex/codbex-hyperion) - Business Process Management Platform
 - [Iapetus](https://github.com/codbex/codbex-iapetus) - Integration Platform
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
