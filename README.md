@@ -16,9 +16,6 @@ This is the list of the codbex projects by categories
 - [Kronos](https://github.com/codbex/codbex-kronos) - SAP HANA XS Classic, Java and HTML5 Compatibility Platform
 - [Rhea](https://github.com/codbex/codbex-rhea) - Modelling and Applications Generation Platform
 - [Gaia](https://github.com/codbex/codbex-gaia) - Basis Platform for Products
-
-
-### Planned
 - [Phoebe](https://github.com/codbex/codbex-phoebe) - Analytics Platform
 
 ## Tools
