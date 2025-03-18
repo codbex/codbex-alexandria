@@ -4,7 +4,7 @@ This is the list of the codbex projects by categories
 
 ## Runtimes
 
-### Spring Boot Based
+### Platforms
 
 - [Atlas](https://github.com/codbex/codbex-atlas) - All in One Platform
 - [Helios](https://github.com/codbex/codbex-helios) - JavaScript and Typescript Pro-Code Platform
